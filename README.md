@@ -64,3 +64,5 @@ Ser el referente principal y la plataforma central para la exploración de las c
       <img src="imagenes/gmail.jpg" alt="gmail" width="300">
       <p>COMUNÍCATE CON NOSOTROS POR ESTA CUENTA: cebgcorozal@gmail.com.</p>
     </div>
+
+![App Screenshot](https://github.com/Anthony229q/Repositorio-Tem-tico-de-Ciencias-Naturales/blob/main/Ciencias_Naturales-2.jpg)
