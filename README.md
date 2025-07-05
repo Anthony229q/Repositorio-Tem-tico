@@ -30,6 +30,8 @@ Se divide en química orgánica, química inorgánica, química analítica, bioq
 -**Astronomía** se dedica al estudio de los cuerpos celestes (estrellas, planetas, galaxias, cometas, asteroides, etc.) y los fenómenos que ocurren fuera de la atmósfera terrestre.
 
 
+
+
 ## **MISIÓN**
 
 Nuestra misión es facilitar el acceso a recursos educativos interactivos y actualizados en ciencias naturales, para inspirar la curiosidad científica, fomentar el pensamiento crítico y enriquecer el proceso de enseñanza-aprendizaje en el centro educativo básico general. Buscamos empoderar a estudiantes y docentes con herramientas que les permitan explorar, investigar y comprender el mundo natural de manera dinámica y accesible.
