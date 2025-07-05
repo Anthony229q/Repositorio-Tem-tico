@@ -63,7 +63,7 @@ Ser el referente principal y la plataforma central para la exploración de las c
 
 
  <div style="display: flex;">
-      <img src="imagenes/gmail.jpg" alt="gmail" width="300">
+      <img src="https://github.com/Repositorio-Tem-tico/blob/main/gmail.jpg" alt="gmail" width="300">
       <p>COMUNÍCATE CON NOSOTROS POR ESTA CUENTA: cebgcorozal@gmail.com.</p>
     </div>
 
